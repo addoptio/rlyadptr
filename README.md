@@ -1,4 +1,4 @@
-# rlyadptr
+# rlydptr
 This is the Early Adopter Community Platform for mycrwds.com.
 
 As a member of the rly dptr prgrm you are allowed to use this place to:
@@ -24,12 +24,12 @@ What features can we expect from the first MVP?
     - Post content on other social media platforms 
 
 How to contribute?
- - If you want to report a bug, a feature request etc. use the Issues section: https://github.com/addoptio/rlyadptr/issues
- - If you want to interact with the community to discuss ideas etc. use the Discussions section: https://github.com/addoptio/rlyadptr/discussions
+ - If you want to report a bug, a feature request etc. use the Issues section: https://github.com/addoptio/rlydptr/issues
+ - If you want to interact with the community to discuss ideas etc. use the Discussions section: https://github.com/addoptio/rlydptr/discussions
  - If you want to get in touch witch me personally, you can schedule a meeting here: https://calendly.com/mycrwds/learn-from-you
 
 Your fist step could be ...
- - to introduce yourself to the community here: https://github.com/addoptio/rlyadptr/discussions/1
+ - to introduce yourself to the community here: https://github.com/addoptio/rlydptr/discussions/1
  - by leaving a comment with information about your background and motivation to work with us
 
 What language do we use?
